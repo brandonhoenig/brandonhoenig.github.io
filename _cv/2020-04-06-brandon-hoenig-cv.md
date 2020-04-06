@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: "Hank Quinlan, Curriculum Vitae"
+title: "Brandon Hoenig, Curriculum Vitae"
 date: 2020-04-06
 ---
 
