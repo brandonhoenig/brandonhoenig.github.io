@@ -4,4 +4,6 @@ title: "Brandon Hoenig, Site Launch"
 date: 2020-04-06
 ---
 
-This site has been launched!
+#Hello everyone!  
+
+The site has been launched! [Google](http://google.com/)
