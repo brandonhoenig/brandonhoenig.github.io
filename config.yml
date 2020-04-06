@@ -1,3 +1,4 @@
 name: Brandon D. Hoenig, PhD Candidate in Biological Sciences
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+permalink: /cv/:title
