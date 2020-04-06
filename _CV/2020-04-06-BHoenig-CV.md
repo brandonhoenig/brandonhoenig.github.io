@@ -1,3 +1,9 @@
+---
+layout: cv
+title: "Brandon D. Hoenig Cirriculum Vitae"
+date: 2014-04-30
+---
+
 Brandon D. Hoenig 				
 Department of Biological Sciences, Duquesne University, 600 Forbes Avenue, Pittsburgh, PA, 15282
 Phone: (724) 561-5563; Email: hoenigb@duq.edu, brandonhoenig@gmail.com 
