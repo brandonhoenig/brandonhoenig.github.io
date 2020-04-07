@@ -1,6 +1,7 @@
 body {
     margin: 60px auto;
-    width: 100%;
+    width: 80%;
+    height: 90%;
 }
 nav ul, footer ul {
     font-family:'Calibri', 'Arial', 'Sans-Serif';
@@ -84,6 +85,6 @@ body, html {
 body.defaultborder {
     border-right-style: solid;
     border-left-style: solid;
-    border-color: DodgerBlue;
+    border-color: Black;
     border-width: 20px;
 }
