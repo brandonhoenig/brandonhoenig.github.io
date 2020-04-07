@@ -71,3 +71,10 @@ body, html {
    color: white;
    display: flex
  }
+/* Allows for the centering of my image on the Home page */
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
