@@ -43,8 +43,9 @@ ul.posts li {
 }
 
 header img{
-    max-width: 100%;
+    width: 100%;
     height: auto;
+    background-size: contain
 }
 
 header {
