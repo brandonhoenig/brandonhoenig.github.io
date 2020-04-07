@@ -81,10 +81,3 @@ body, html {
   width: 50%;
 }
 
-/* Allows for borders to appear on the sides of each page. */
-body.defaultborder {
-    border-right-style: solid;
-    border-left-style: solid;
-    border-color: Black;
-    border-width: 20px;
-}
