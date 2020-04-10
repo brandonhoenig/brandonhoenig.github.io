@@ -52,6 +52,7 @@ body, html {
 .hero-image {
   /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
   background-image: url("../assets/BDH_3662.jpeg");
+  opacity: 0.75;
 
   /* Set a specific height */
   height: 25%;
