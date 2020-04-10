@@ -66,13 +66,14 @@ body, html {
 /* Place text in the middle of the image */
  .hero-text {
    text-align: center;
+   vertical-align: bottom;
    position: absolute;
    bottom: 10%;
    left: 50%;
    transform: translate(-50%, -50%);
    color: white;
    display: flex;
-   font-size: 1.5em
+   font-size: 2.5em
  }
 
 /* Allows for the centering of my image on the Home page */
