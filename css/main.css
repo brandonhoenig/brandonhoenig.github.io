@@ -73,7 +73,7 @@ body, html {
    transform: translate(-50%, -50%);
    color: white;
    display: flex;
-   font-size: 3.5em
+   font-size: 2em
  }
 
 /* Allows for the centering of my image on the Home page */
