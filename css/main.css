@@ -48,10 +48,6 @@ body, html {
     height: 100%;
 }
 
-h1.hero {
-    font-size: 3em;
-}
-
 /* The hero image */
 .hero-image {
   /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
@@ -78,7 +74,7 @@ h1.hero {
    transform: translate(-50%, -50%);
    color: white;
    display: flex;
-   font-size: 2.5em
+   font-size: 3.5em
  }
 
 /* Allows for the centering of my image on the Home page */
