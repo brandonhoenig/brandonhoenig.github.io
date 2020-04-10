@@ -67,7 +67,6 @@ body, html {
 /* Place text in the middle of the image */
  .hero-text {
    text-align: center;
-   vertical-align: bottom;
    position: absolute;
    bottom: 10%;
    left: 50%;
