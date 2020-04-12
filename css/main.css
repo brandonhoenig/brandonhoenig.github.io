@@ -73,3 +73,22 @@ ul.posts li {
   color: white;
 }
 
+/* Information for the Tutorial Page */
+
+.grid-container {
+  display: grid;
+  justify-content: center;
+  grid-template-columns: 45% 45% ;
+  grid-template-rows: 5em 14em;
+  grid-gap: 10px;
+  background-color: rgba(9, 9, 209, 0.1);
+  					
+  padding: 10px;
+}
+
+.grid-container > div {
+  background-color: rgba(9, 9, 209, 0.28);
+  text-align: center;
+  padding: 0 0;
+  font-size: 20px
+}
