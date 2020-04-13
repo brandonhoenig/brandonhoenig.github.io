@@ -77,11 +77,9 @@ ul.posts li {
 .grid-container {
   display: grid;
   justify-content: center;
-  grid-template-columns: 45% 45% ;
+  grid-template-columns: 25% 25% ;
   grid-template-rows: 20% 50% 25%;
-  grid-gap: 10px;
-  background-color: rgba(9, 9, 209, 0.1);
-  					
+  grid-gap: 10px;		
   padding: 10px;
 }
 
