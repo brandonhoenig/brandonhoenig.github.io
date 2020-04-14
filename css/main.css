@@ -79,8 +79,7 @@ ul.posts li {
   justify-content: center;
   grid-template-columns: 25% 25% ;
   grid-template-rows: 20% 50% 25%;
-  grid-gap: 10px;		
-  padding: 10px;
+  grid-gap: 10px;
 }
 
 .grid-container > div {
