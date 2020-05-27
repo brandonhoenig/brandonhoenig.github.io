@@ -1,8 +1,7 @@
 ---
 title: "Filter_Group-by_Summarize.md"
 author: "Brandon D. Hoenig"
-date: "5/27/2020"
-output: html_document
+date: "2020-05-27"
 ---
 
 ```{r setup, include=FALSE}
