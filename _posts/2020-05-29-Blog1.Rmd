@@ -1,7 +1,7 @@
 ---
 title: "Using the filter(), group_by(), and summarize() functions"
 author: "Brandon D. Hoenig"
-date: "2020-05-27"
+date: "2020-05-29"
 ---
 
 ```{r setup, include=FALSE}
