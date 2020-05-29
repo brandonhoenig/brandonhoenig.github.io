@@ -86,8 +86,19 @@ Command and Enter
 wastes time. Just as in the method above, you write what you want to do
 in your notepad. However, this time, you copy the entire function or
 combination of functions that you want to run, and then paste them into
-the console below. This ensures that your code is correct and that you
+the console below. After this, you just have to press Enter and your
+code will run. This ensures that your code is correct and that you
 selected the right lines, but I feel it is not necessary. But this is an
 option, and if you prefer it, then go for it!
 
-<img src="../_postmaterials/29_May_2020/LeftQuadrants2.png" width="50%" /><img src="../_postmaterials/29_May_2020/LeftQuadrants3.png" width="50%" />
+<img src="../_postmaterials/29_May_2020/LeftQuadrants2.png" width="40%" /><img src="../_postmaterials/29_May_2020/LeftQuadrants3.png" width="40%" />
+
+In the above example, the image on the left is what you'll see prior to
+pressing enter. The code '2 + 2' has been copied and pasted in the
+console below, next to the '&gt;' cursor. In the image on the right,
+I've pressed enter and executed the code. The output is then printed
+below.
+
+*The Ugly Way* If you thought copy and pasting was bad, how would you
+feel if you typed everything in manually into the console? Well that is
+the ugly way.
