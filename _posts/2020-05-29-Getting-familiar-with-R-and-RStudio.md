@@ -42,10 +42,7 @@ okay! Even the most experienced data scientist started off as a novice.
 The important thing is that you're here doing it now! So, if you'll open
 RStudio, you should see something like this:
 
-<img src="../_postmaterials/29_May_2020/RStudio.png" alt="Typical RStudio Window" width="100%" />
-<p class="caption">
-Typical RStudio Window
-</p>
+<img src="../_postmaterials/29_May_2020/RStudio.png" width="100%" />
 
 In the top left quadrant, we can see a blank notepad. This is where
 you'd keep your notes for your analysis or write in the functions that
@@ -54,10 +51,7 @@ function is right now, we'll go over those soon enough!
 
 This is what a typical notepad of mine will have in it.
 
-<img src="../_postmaterials/29_May_2020/TopLeftQuadrant.png" alt="My Notepad" width="100%" />
-<p class="caption">
-My Notepad
-</p>
+<img src="../_postmaterials/29_May_2020/TopLeftQuadrant.png" width="100%" />
 
 Don't worry too much about what is in the quadrant, just recognize that
 this is the best place to store the pieces of your analysis. This is
@@ -82,10 +76,7 @@ function that I am running, and then press Command and Enter or Control
 and Enter, depending on your computer. This way, our analysis is stored
 in the notepad and our function runs with minimal steps.
 
-<img src="../_postmaterials/29_May_2020/LeftQuadrants.png" alt="Good Way Example" width="100%" />
-<p class="caption">
-Good Way Example
-</p>
+<img src="../_postmaterials/29_May_2020/LeftQuadrants.png" width="100%" />
 
 In the above example, I did not have to copy and paste anything. Just
 click next to whatever you want to run from your notepad and press
@@ -99,7 +90,4 @@ the console below. This ensures that your code is correct and that you
 selected the right lines, but I feel it is not necessary. But this is an
 option, and if you prefer it, then go for it!
 
-<img src="../_postmaterials/29_May_2020/LeftQuadrants2.png" alt="Bad Way Example" width="100%" />
-<p class="caption">
-Bad Way Example
-</p>
+<img src="../_postmaterials/29_May_2020/LeftQuadrants2.png" width="50%" /><img src="../_postmaterials/29_May_2020/LeftQuadrants3.png" width="50%" />
