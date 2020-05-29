@@ -24,7 +24,7 @@ Before we start make sure that you have [R](http://lib.stat.cmu.edu/R/CRAN/) and
 Now, you're likely new to R if you're reading this, which is totally okay!  Even the most experienced data scientist started off as a novice. The important thing is that you're here doing it now!  So, if you'll open RStudio, you should see something like this: 
 
 ```{r, echo=F, out.width='100%'}
-knitr::include_graphics("../_postmaterials/29_May_2020/RStudio.jpeg")
+knitr::include_graphics("../_postmaterials/29_May_2020/RStudio.jpg")
 ```
 
 In the top left quadrant, we can see a blank notepad.  This is where you'd keep your notes for your analysis or write in the functions that you'd like to use in your analysis.  Don't worry if you don't know what a function is right now, we'll go over those soon enough!  
@@ -32,7 +32,7 @@ In the top left quadrant, we can see a blank notepad.  This is where you'd keep 
 This is what a typical notepad of mine will have in it. 
 
 ```{r, echo=F, out.width='100%'}
-knitr::include_graphics("../_postmaterials/29_May_2020/TopLeftQuadrant.jpeg")
+knitr::include_graphics("../_postmaterials/29_May_2020/TopLeftQuadrant.jpg")
 ```
 
 Don't worry too much about what is in the quadrant, just recognize that this is the best place to store the pieces of your analysis.  This is basically just a text file and can be saved for later use down the road.  No need to write it down or try to remember what you did months down the road. 
@@ -45,7 +45,7 @@ _The Good Way_
 The method that I use is write whatever I want to do in the notepad (i.e. the top left quadrant), click my cursor on the same line as the function that I am running, and then press Command and Enter or Control and Enter, depending on your computer. This way, our analysis is stored in the notepad and our function runs with minimal steps. 
 
 ```{r, echo=F, out.width='100%'}
-knitr::include_graphics('../_postmaterials/29_May_2020/LeftQuadrants.jpeg')
+knitr::include_graphics('../_postmaterials/29_May_2020/LeftQuadrants.jpg')
 ```
 
 
@@ -56,8 +56,8 @@ _The Bad Way_
 This method is fine, but it just requires extra steps and wastes time.  Just as in the method above, you write what you want to do in your notepad. However, this time, you copy the entire function or combination of functions that you want to run, and then paste them into the console below.  After this, you just have to press Enter and your code will run. This ensures that your code is correct and that you selected the right lines, but I feel it is not necessary.  But this is an option, and if you prefer it, then go for it!
 
 ```{r, echo=F, out.width='50%'}
-knitr::include_graphics("../_postmaterials/29_May_2020/LeftQuadrants2.jpeg")
-knitr::include_graphics("../_postmaterials/29_May_2020/LeftQuadrants3.jpeg")
+knitr::include_graphics("../_postmaterials/29_May_2020/LeftQuadrants2.jpg")
+knitr::include_graphics("../_postmaterials/29_May_2020/LeftQuadrants3.jpg")
 ```
 
 In the above example, the image on the left is what you'll see prior to pressing enter.  The code '2 + 2' has been copied and pasted in the console below, next to the '>' cursor.  In the image on the right, I've pressed enter and executed the code. The output is then printed below.  
