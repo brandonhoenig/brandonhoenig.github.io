@@ -42,7 +42,7 @@ okay! Even the most experienced data scientist started off as a novice.
 The important thing is that you're here doing it now! So, if you'll open
 RStudio, you should see something like this:
 
-<img src="~/Desktop/GitHub/_posts/29_May_2020/RStudio.png" alt="Typical RStudio Window" width="100%" />
+<img src="../_postmaterials/29_May_2020/RStudio.png" alt="Typical RStudio Window" width="100%" />
 <p class="caption">
 Typical RStudio Window
 </p>
@@ -54,7 +54,7 @@ function is right now, we'll go over those soon enough!
 
 This is what a typical notepad of mine will have in it.
 
-<img src="/_postmaterials/29_May_2020/TopLeftQuadrant.png" alt="My Notepad" width="100%" />
+<img src="../_postmaterials/29_May_2020/TopLeftQuadrant.png" alt="My Notepad" width="100%" />
 <p class="caption">
 My Notepad
 </p>
@@ -82,7 +82,7 @@ function that I am running, and then press Command and Enter or Control
 and Enter, depending on your computer. This way, our analysis is stored
 in the notepad and our function runs with minimal steps.
 
-<img src="/_postmaterials/29_May_2020/LeftQuadrants.png" alt="Good Way Example" width="100%" />
+<img src="../_postmaterials/29_May_2020/LeftQuadrants.png" alt="Good Way Example" width="100%" />
 <p class="caption">
 Good Way Example
 </p>
@@ -99,7 +99,7 @@ the console below. This ensures that your code is correct and that you
 selected the right lines, but I feel it is not necessary. But this is an
 option, and if you prefer it, then go for it!
 
-<img src="/_postmaterials/29_May_2020/LeftQuadrants2.png" alt="Bad Way Example" width="100%" />
+<img src="../_postmaterials/29_May_2020/LeftQuadrants2.png" alt="Bad Way Example" width="100%" />
 <p class="caption">
 Bad Way Example
 </p>
