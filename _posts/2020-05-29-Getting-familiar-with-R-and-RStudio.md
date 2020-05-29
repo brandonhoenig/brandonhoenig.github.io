@@ -42,7 +42,7 @@ okay! Even the most experienced data scientist started off as a novice.
 The important thing is that you're here doing it now! So, if you'll open
 RStudio, you should see something like this:
 
-<img src="brandonhoenig.github.io/_postmaterials/29_May_2020/RStudio.jpeg" width="100%" />
+<img src="/brandonhoenig.github.io/_postmaterials/29_May_2020/RStudio.jpeg" width="100%" />
 
 In the top left quadrant, we can see a blank notepad. This is where
 you'd keep your notes for your analysis or write in the functions that
@@ -51,7 +51,7 @@ function is right now, we'll go over those soon enough!
 
 This is what a typical notepad of mine will have in it.
 
-<img src="brandonhoenig.github.io/_postmaterials/29_May_2020/TopLeftQuadrant.jpeg" width="100%" />
+<img src="/brandonhoenig.github.io/_postmaterials/29_May_2020/TopLeftQuadrant.jpeg" width="100%" />
 
 Don't worry too much about what is in the quadrant, just recognize that
 this is the best place to store the pieces of your analysis. This is
@@ -76,7 +76,7 @@ function that I am running, and then press Command and Enter or Control
 and Enter, depending on your computer. This way, our analysis is stored
 in the notepad and our function runs with minimal steps.
 
-<img src="brandonhoenig.github.io/_postmaterials/29_May_2020/LeftQuadrants.jpeg" width="100%" />
+<img src="/brandonhoenig.github.io/_postmaterials/29_May_2020/LeftQuadrants.jpeg" width="100%" />
 
 In the above example, I did not have to copy and paste anything. Just
 click next to whatever you want to run from your notepad and press
@@ -91,7 +91,7 @@ code will run. This ensures that your code is correct and that you
 selected the right lines, but I feel it is not necessary. But this is an
 option, and if you prefer it, then go for it!
 
-<img src="brandonhoenig.github.io/_postmaterials/29_May_2020/LeftQuadrants2.jpeg" width="50%" /><img src="brandonhoenig.github.io/_postmaterials/29_May_2020/LeftQuadrants3.jpeg" width="50%" />
+<img src="/brandonhoenig.github.io/_postmaterials/29_May_2020/LeftQuadrants2.jpeg" width="50%" /><img src="/brandonhoenig.github.io/_postmaterials/29_May_2020/LeftQuadrants3.jpeg" width="50%" />
 
 In the above example, the image on the left is what you'll see prior to
 pressing enter. The code '2 + 2' has been copied and pasted in the
