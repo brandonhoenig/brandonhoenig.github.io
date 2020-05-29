@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Getting familiar with R and RStudio"
+date: 2020-05-29
+---
+
 *Hello, everyone!*
 
 My name is Brandon Hoenig, and I have been working in R for about 5
